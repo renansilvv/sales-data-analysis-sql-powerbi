@@ -34,3 +34,10 @@ Foi desenvolvido um dashboard utilizando Power BI com foco em:
 ## Dashboard Overview
 
 ![Overview](images/sales_dashboard-1.png)
+
+## Insights
+
+- a região West concentra a maior parte das vendas, indicando maior demanda ou presença de mercado.
+- a categoria Technology apresenta maior ticket médio em comparação com as demais.
+- alguns clientes concentram grande volume de compras, sugerindo oportunidades de retenção.
+- as vendas apresentam variação ao longo do tempo, com picos em determinados períodos.
