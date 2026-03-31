@@ -30,3 +30,7 @@ Foi desenvolvido um dashboard utilizando Power BI com foco em:
 - desempenho por produto
 - distribuição geográfica
 - análise temporal
+
+## Dashboard Overview
+
+![Overview](images/sales_dashboard-1.png)
